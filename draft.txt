@@ -1,0 +1,20 @@
+draft:
+1. for train and test datasets,combine X and Y files to identify activitycodes for each row. 
+/data/test/
+	X_test.txt ->  
+	Y_test.txt -> activitycode
+/data/train/
+
+2. combine rows for train and test datasets
+	
+3. get columnnames from features.txt
+	note: there are duplicate records in features.txt (126 duplicates)
+	transformation made:
+		for each duplicate, assigned X, Y and Z factorial variables
+
+4. based on the instruction, select only columns that has 'std' and 'mean' on names together  activitycode from "activity_labels.txt" file
+
+5. create new tidy data with mean of each selected column on 1st tidy data
+
+
+please read /data/README.txt or go to UCI Marchine Learning Repository for more info
