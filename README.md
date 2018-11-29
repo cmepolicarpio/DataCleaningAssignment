@@ -23,7 +23,7 @@ This project includes the following files and folders:
 6. tidydata2.csv
 
 
-# Requirements:
+## Requirements:
 1) a tidy data set as described above (see Instructions)
 2) a link to a Github repository with your script for performing the analysis
 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. 
