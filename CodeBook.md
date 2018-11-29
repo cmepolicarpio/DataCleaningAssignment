@@ -1,5 +1,3 @@
-a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
-
 ## Abstract
 Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
