@@ -75,5 +75,5 @@ tidydata2 <- aggregate(tidydata1[1:79],
 
 
 #export tidy data
-write.csv(tidydata1, "tidydata1.csv", row.names = TRUE, quote = FALSE)
-write.csv(tidydata2, "tidydata2.csv", row.names = TRUE, quote = FALSE)
+write.table(tidydata1, "tidydata1.txt", row.names = FALSE)
+write.table(tidydata2, "tidydata2.txt", row.names = FALSE)
